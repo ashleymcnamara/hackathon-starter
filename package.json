@@ -36,7 +36,7 @@
     "@octokit/rest": "^20.0.1",
     "@passport-js/passport-twitter": "^1.0.8",
     "@popperjs/core": "^2.11.8",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "body-parser": "^1.20.2",
     "bootstrap": "^5.3.1",
     "chart.js": "^4.3.2",
